@@ -1,0 +1,14 @@
+{
+  "name": "npm-gitter",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pkholland/npm-gitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp":"0.5.1"
+  }
+}
